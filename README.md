@@ -1,8 +1,8 @@
-# StyleCraft-Using-GANs-to-Generate-Fashionable-Data
+# StyleCraft: Using-GANs-to-Generate-Fashionable-Data
 
 ## Overview
 
-FashionGAN is a project that utilizes Generative Adversarial Networks (GANs) to generate realistic fashion images. This project focuses on leveraging TensorFlow Datasets (TFDS) for accessing fashion-related datasets and training a GAN model to generate new fashion designs.
+StyleCraft is a project that utilizes Generative Adversarial Networks (GANs) to generate realistic fashion images. This project focuses on leveraging TensorFlow Datasets (TFDS) for accessing fashion-related datasets and training a GAN model to generate new fashion designs.
 
 ## Features
 
@@ -11,3 +11,8 @@ FashionGAN is a project that utilizes Generative Adversarial Networks (GANs) to 
 - Provides a flexible framework for experimenting with different GAN architectures and hyperparameters.
 - Includes visualization tools for monitoring training progress and generated images.
 
+## After 20 Epochs
+
+![Starting epoch's image](generated_img_0_1.png)
+
+![Last epoch's image](generated_img_19_0.png)
