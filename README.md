@@ -13,6 +13,8 @@ StyleCraft is a project that utilizes Generative Adversarial Networks (GANs) to 
 
 ## After 20 Epochs
 
-![Starting epoch's image](generated_img_0_1.png)
+<div align="center">
+  <img src="generated_img_0_1.png" width="300" alt="Image in initial epoch">
+  <img src="generated_img_19_1.png" width="300" alt="Image in final epoch">
+</div>
 
-![Last epoch's image](generated_img_19_0.png)
