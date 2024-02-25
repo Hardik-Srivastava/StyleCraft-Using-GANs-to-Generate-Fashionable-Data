@@ -15,6 +15,6 @@ StyleCraft is a project that utilizes Generative Adversarial Networks (GANs) to 
 
 <div align="center">
   <img src="generated_img_0_1.png" width="300" alt="Image in initial epoch">
-  <img src="generated_img_19_1.png" width="300" alt="Image in final epoch">
+  <img src="generated_img_19_0.png" width="300" alt="Image in final epoch">
 </div>
 
